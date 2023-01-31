@@ -4,3 +4,4 @@ repo = "https://github.com/mipals/PackageRepository.git"
 description = "My private registry"
 
 [packages]
+ebf54fa4-afc0-484a-8ee1-77aaf84d33dc = { name = "IntegralEquations", path = "I/IntegralEquations" }
