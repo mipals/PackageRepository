@@ -1,0 +1,6 @@
+name = "PackageRepository"
+uuid = "66e69e57-c158-407d-b02d-e105ef18005a"
+repo = "https://github.com/mipals/PackageRepository.git"
+description = "My private registry"
+
+[packages]
